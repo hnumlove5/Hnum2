@@ -1,0 +1,115 @@
+
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] Request-sent
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] object of type 'NoneType' has no len()
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'commet'
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'commet'
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'commet'
+[<module 'time' (built-in)>] 'commet'
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=aDobDTG_a9vWGwqHbu4K1g&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=O7CxNS4X507BHbGsJGF9WA&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=C0KgddQuMC-T-dZaXyb_SQ&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=h_aaHL-W552LvUTJmsai9g&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] 'autoCancel'
+[<module 'time' (built-in)>] 'comment'
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=_s3-cFUxQKpuI15sci6Utg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=dZfB_R4F_AwlG2pa0Bx_EQ&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=877vbvJUEhUmDsKzzmjjfQ&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=TS-WbKb2qSkD5M7PssJlmg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=eaV5xDfzEr8q1tgY4UbnQw&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] 'autoCancel'
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=FSQLzYPj9b2ziCK4erkPeg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=_UDMf20yq-595VYeBH6THA&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=REqtd9ZppicimVaGgEM8NA&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=L3uzZfgxU1Uzknbi7d1VQQ&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] 'comment'
+[<module 'time' (built-in)>] 'autoCancel'
+[<module 'time' (built-in)>] 'autoCancel'
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=RODHtZ5l6antUPpkrq4FBw&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] can only concatenate str (not "NoneType") to str
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=GwvlGWFUu2akf9R3EkeRJQ&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=5r8Rhw-nfJFOEFpayUf1Zg&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1602687308', consentUrl='https://access.line.me/oauth2/v2.1/authorize/consent?sessionString=9yjfjEDu0nFyp7HdFcW-mw&client_id=1602687308&scope=profile+chat_message.write&redirect_uri=https%3A%2F%2Far-liff.github.io%2Fliff%2F&response_type=code&prompt=consent&type=LL')))
+[<module 'time' (built-in)>] 'comment'
+[<module 'time' (built-in)>] 'comment'
