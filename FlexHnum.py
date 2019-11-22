@@ -1389,7 +1389,7 @@ async def maxgieBot(op):
                                         "contents": [
                                             {
                                                 "type": "image",
-                                                "url": 'https://www.img.live/images/2019/11/21/2ac721.jpg',
+                                                "url": 'https://www.img.live/images/2019/11/22/AVAE2032.jpg',
                                                 "size": "full"
                                             },
                                             {
@@ -1495,7 +1495,7 @@ async def maxgieBot(op):
                                         "contents": [
                                             {
                                                 "type": "image",
-                                                "url": 'https://www.img.live/images/2019/11/21/2ac721.jpg',
+                                                "url": 'https://www.img.live/images/2019/11/22/AVAE2032.jpg',
                                                 "size": "full"
                                             },
                                             {
