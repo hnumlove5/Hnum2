@@ -1993,7 +1993,7 @@ async def maxgieBot(op):
                     }
                     sendTemplate(to, data)
                 elif text.lower() == "รีบอท" or text.lower() == "reset":
-                    gifnya = ["https://www.img.live/images/2019/11/21/dj-spinning-mixing-scratching-night-260nw-6309928701.jpg"]
+                    gifnya = ["https://www.img.live/images/2019/11/22/AVAE2032.jpg"]
                     data = {
                         "type": "template",
                         "altText": "กำลังรีบอท...",
@@ -2027,7 +2027,7 @@ async def maxgieBot(op):
                     restartBot()
                 if text.lower() == "/speed" or text.lower() == "/sp" or text.lower() == "/สปีด":
                     start = time.time()
-                    maxgie.sendMessage("ua26d317bf6c058a4c00aa93caee1ab0d","speed...")
+                    maxgie.sendMessage("https://line.me/ti/p/9P3vQS2cgd","speed...")
                     elapsed_time = time.time() - start
                     took = time.time() - start
                     a = "ความเร็ว :\n- เชิร์ฟเวอร์ : %.3f วินาที" % (took)
@@ -2047,7 +2047,7 @@ async def maxgieBot(op):
                             "type": "bubble",
                             "hero": {
                                 "type":"image",
-                                "url":"https://www.img.live/images/2019/11/21/dj-spinning-mixing-scratching-night-260nw-6309928701.jpg",
+                                "url":"https://www.img.live/images/2019/11/21/2ac721.jpg",
                                 "size": "full",
                                 "aspectRatio": "1:1",
                                 "aspectMode": "fit"
@@ -2109,7 +2109,7 @@ async def maxgieBot(op):
                     except Exception as e:
                         maxgie.sendMessage(msg.to, str(e))
                 elif text.lower() == "หลุดมือ":
-                            gifnya = ['https://www.img.live/images/2019/11/21/dj-spinning-mixing-scratching-night-260nw-6309928701.jpg']
+                            gifnya = ['https://www.img.live/images/2019/11/21/2ac721.jpg']
                             data = {
                                 "type": "template",
                                 "altText": "Image carouserl",
@@ -2129,7 +2129,7 @@ async def maxgieBot(op):
                             }
                             sendTemplate(to, data)
                 elif text.lower() == "ยิงๆ" or text.lower() == "ยิง":
-                            gifnya = ['https://www.img.live/images/2019/11/21/dj-spinning-mixing-scratching-night-260nw-6309928701.jpg']
+                            gifnya = ['https://www.img.live/images/2019/11/21/2ac721.jpg']
                             data = {
                                 "type": "template",
                                 "altText": "Image carouserl",
@@ -2324,7 +2324,7 @@ async def maxgieBot(op):
 #---------------------------------ลูกเล่น--------------------------------------------------------------------------------------#                                   
 #---------------------------------ลูกเล่น--------------------------------------------------------------------------------------#                            
                 elif text.lower() == "เทสบอท":
-                    nn2(to,"「 NEVERDIE BOT」")
+                    nn2(to,"「✯ᴮʸ✯нηυм вσт ℓιηє✯」")
                     time.sleep(1)
                     nn3(to, "█▒... 10.0%")
                     time.sleep(1)
@@ -2401,7 +2401,7 @@ async def maxgieBot(op):
                        
                     Chivaree13={
                        "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
-                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "••AVENGRES BOT","color": "#00FF00","align": "center","size": "xs"}]},
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "••✯ᴮʸ✯нηυм вσт ℓιηє✯","color": "#00FF00","align": "center","size": "xs"}]},
                        "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
 
                     sendTemplate(to, Chivaree1)
