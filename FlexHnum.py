@@ -2321,6 +2321,200 @@ async def maxgieBot(op):
                 if text.lower() == "stic off":
                     sets["sti2"] = False
                     maxgie.sendMessage(to,"ปิดแล้ว >_<")
+#---------------------------------ลูกเล่น--------------------------------------------------------------------------------------#                                   
+#---------------------------------ลูกเล่น--------------------------------------------------------------------------------------#                            
+                elif text.lower() == "เทสบอท":
+                    nn2(to,"「 NEVERDIE BOT」")
+                    time.sleep(1)
+                    nn3(to, "█▒... 10.0%")
+                    time.sleep(1)
+                    nn3(to, "███▒... 25.0%")
+                    time.sleep(1)
+                    nn3(to, "█████▒... 50.0%")
+                    time.sleep(1)
+                    nn3(to, "███████▒... 75.0%")
+                    time.sleep(1)
+                    nn3(to, "███████████..100.0%")
+                    time.sleep(1)
+                    nn4(to,"「👉บอทยังทำงานจ้าา👈」\n✯ᴮʸ✯нηυм вσт ℓιηє✯")               
+         
+                elif msg.text in ["เทส2","เทส"]:
+                    Chivaree1={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "กำลังโหลด:▒...0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree2={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "█▒... 10.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree3={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "██▒... 20.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree4={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "███▒... 30.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}  
+                       
+                    Chivaree5={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "████▒... 40.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree6={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "█████▒... 50.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree7={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "█████▒... 60.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree8={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "██████▒... 70.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree9={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "████████▒... 80.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree10={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "█████████▒... 90.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree11={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "███████████..100.0%","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+  
+                    Chivaree12={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "บอทยังทำงานคับท่าน😁","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree13={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "••AVENGRES BOT","color": "#00FF00","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#000000"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+
+                    sendTemplate(to, Chivaree1)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree2)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree3)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree4)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree5)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree6)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree7)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree8)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree9)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree10)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree11)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree12)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree13) 
+#-----------------------------------------------------------------------------------------------------------------------------------------#                   
+                elif msg.text in ["ด่า","ด่ามาน"]:
+                    Chivaree1={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "กำลังด่า [รอสักครู่]..","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree2={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "ไอ้เย็บแม่!! เดะกุตบหัวหลุด","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree3={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "ก็มาดิไอ่เวร เหมือนเก่งอะ","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree4={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "มัดมือป่าว มีดคนละเล่มจะได้จบๆ","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}  
+                       
+                    Chivaree5={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "เหมือนหล่ออะไอ้เวร","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree6={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "ระวังตัวใว้ มึงเข้าไปเดี๋ยวเจอเลย","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree7={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "มองครวยไรละไอสัส","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree8={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "ไม่เคยเห็นบอทด่าเหรอ","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree9={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "ก็ม่ได้เสียวาไรอยู่แล้ว","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree10={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "เหมือนหล่ออะคับ","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+                       
+                    Chivaree11={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "จอบอ จบ.....","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}  
+                    
+                    Chivaree12={
+                       "type": "flex","altText": "✯ᴮʸ✯нηυм вσт ℓιηє✯","contents": { "type": "bubble",     
+                       "body": {"type": "box","layout": "vertical",   "contents": [{"type": "text","text": "••✯ᴮʸ✯нηυм вσт ℓιηє✯••","color": "#ffffff","align": "center","size": "xs"}]},
+                       "styles": {"body": {"backgroundColor": "#0033FF"},"footer": {"backgroundColor": "#ffffff","separator": True,"separatorColor": "#000000"}}}}
+
+                    sendTemplate(to, Chivaree1)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree2)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree3)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree4)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree5)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree6)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree7)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree8)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree9)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree10)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree11)
+                    time.sleep(1)
+                    sendTemplate(to, Chivaree12)          
+
 #==============================================================================#
                 elif msg.text.lower().startswith("ประกาศ2 "):
                             text_ = removeCmd("ประกาศ2", text)
